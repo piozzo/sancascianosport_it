@@ -1,0 +1,313 @@
+body {
+	background-image: url(../images/grass.jpg);
+	background-repeat: repeat;
+	margin: 0px;
+	padding: 0px;
+	font-family: Verdana;
+	font-size: 12px;
+}
+
+#header_menu {
+	background-color: yellow;
+	margin: 0px;
+	height: 30px;
+	line-height: 30px;
+}
+
+#header_menu #header_menu_data {
+	float: left;
+}
+
+#header_menu #header_menu_menu {
+	float: right;
+	margin: 0px;
+	padding: 0px;
+}
+
+#header_menu #header_menu_menu ul li {
+	float: left;
+	list-style-position: inside;
+	list-style-type: none;
+}
+
+#header_menu_menu .menu a {
+	color: #000;
+	text-decoration: none;
+}
+
+#header_menu_menu .menu a:hover {
+	color: #F00;
+}
+
+#header_menu #header_menu_menu ul {
+	margin: 0px;
+	padding: 0px;
+}
+
+#logo_div {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+#container {
+	background-color: #FFFAE6;
+	padding-bottom: 10px;
+	width: 800px;
+}
+
+#container #main_menu .active {
+	background-color: #093;
+	float: left;
+}
+
+#container #main_menu .active a {
+	color: #FF0;
+	font-weight: bold;
+}
+
+#container #main_menu {
+	float: left;
+	text-decoration: none;
+	width: 800px;
+	margin: 0px;
+	padding: 0px;
+}
+
+#container #main_menu a {
+	text-decoration: none;
+	color: #000;
+}
+
+#container #main_menu ul {
+}
+
+#container #main_menu ul li{
+	float: left;
+	list-style-position: inside;
+	list-style-type: none;
+}
+
+#container #content #fotoEnews {
+	width: 525px;
+	float: left;
+	margin-left: 5px;
+}
+#container #content #colonnaInfo {
+	float: right;
+	width: 260px;
+	margin-right: 5px;
+}
+
+#container #content #fotoEnews #foto {
+	margin-bottom: 10px;
+	border: medium solid #093;
+}
+
+#container #content #colonnaInfo #sarannoFamosi {
+	border: 1px solid #093;
+	margin-bottom: 10px;
+}
+#container #content #colonnaInfo #classificheHomePage {
+	border: 1px solid #093;
+	margin-bottom: 10px;
+}
+#container #content #colonnaInfo #ultimiCommenti {
+	border: 1px solid #093;
+	margin-bottom: 10px;
+}
+.titoloRiquadro {
+	font-size: 14px;
+	background-color: #093;
+	height: 25px;
+	line-height: 25px;
+	text-align: left;
+	color: #FF3;
+	font-weight: bold;
+	padding-left: 10px;
+}
+
+.titolo_sezione {
+	font-size: 14px;
+	background-color: #093;
+	height: 25px;
+	line-height: 25px;
+	text-align: left;
+	color: #FF3;
+	font-weight: bold;
+	padding-left: 10px;
+	margin: 5px;
+}
+
+.body_squadra {
+    background-image: url("../images/grass.jpg");
+}
+
+#main_menu .menu {
+	padding-left: 5px;
+	margin-top: 5px;
+}
+
+#main_menu .menu li {
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+}
+
+#general_content {
+	border: 2px solid #093;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+#container #content #fotoEnews #newsHomePageFather {
+	border: thin solid #093;
+}
+
+#divFooter {
+	background-color: yellow;
+	color: #000;
+	text-align: right;
+	height: 55px;
+	margin-top: 50px;
+}
+
+#divFooter #footer_info {
+	float: right;
+	text-align: right;
+	font-size: 9px;
+}
+#divFooter #footer_logo {
+	float: left;
+}
+
+.immagineSF {
+	width: 100px;
+	float: left;
+	margin-left: 5px;
+}
+.infoSF {
+	color: #000;
+	width: 150px;
+	float: right;
+	text-align: center;
+}
+.elementoSF {
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+.divSarannoFamosi {
+	margin-bottom: 15px;
+}
+
+#container #content .linkPiccoloHP {
+	color: #093;
+	text-align: right;
+	margin: 5px;
+}
+#container #content .linkPiccoloHP a {
+	color: #093;
+	font-size: 10px;
+}
+
+.nspArt h4.nspHeader a{
+	color: green;
+	font-size: 16px;
+}
+
+.nspArt p.nspInfo a {
+	color: green;
+}
+
+.nspArt {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.container_12 {
+margin-left:auto;
+margin-right:auto;
+width:960px;
+}
+.alpha {
+margin-left:0 !important;
+}
+.omega {
+margin-right:0 !important;
+}
+.grid_1,.grid_2,.grid_3,.grid_4,.grid_5,.grid_6,.grid_7,.grid_8,.grid_9,.grid_10,.grid_11,.grid_12,.grid_12 {
+display:inline;
+float:left;
+position:relative;
+margin-left:10px;
+margin-right:10px;
+}
+.container_12 .grid_1 {
+width:60px;
+}
+.container_12 .grid_2 {
+width:140px;
+}
+.container_12 .grid_3 {
+width:220px;
+}
+.container_12 .grid_4 {
+width:300px;
+}
+.container_12 .grid_5 {
+width:380px;
+}
+.container_12 .grid_6 {
+width:460px;
+}
+.container_12 .grid_7 {
+width:540px;
+}
+.container_12 .grid_8 {
+width:620px;
+}
+.container_12 .grid_9 {
+width:700px;
+}
+.container_12 .grid_10 {
+width:780px;
+}
+.container_12 .grid_11 {
+width:860px;
+}
+.container_12 .grid_12 {
+width:940px;
+}
+
+#administrative_menu {
+    width: 800px;
+    background-color: #FFFAE6;
+    height: 60px;
+    margin: 10px;
+}
+
+#administrative_menu ul li{
+	float: left;
+	list-style-position: inside;
+	list-style-type: none;
+}
+#administrative_menu .menu li {
+	/* height: 30px; */
+	text-align: center;
+}
+
+#administrative_menu a{
+    color: #093;
+    font-weight: bold;
+}
+#administrative_menu a:hover{
+    color:#ff9900;
+}
+
+#HDFLVPlayer1 {
+    padding-top: 50px;
+}
+
+/* PHOCA GALLERY CSS DIRECTIVES*/
+.pdoc-categories a {
+    color: #000;
+}

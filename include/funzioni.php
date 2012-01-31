@@ -26,6 +26,10 @@ function carica_home_page($baseurl, $template) {
                     </div>
                 </div>
             </div>
+            <div id="loginHomePage">
+                <div class="titoloRiquadro">Login</div>
+                <jdoc:include type="modules" name="home_page_login" />
+            </div>
             <div id="classificheHomePage">
                 <div class="titoloRiquadro">Classifica</div>
                 <div id="classificaHP">
@@ -33,7 +37,7 @@ function carica_home_page($baseurl, $template) {
                     <div class="linkPiccoloHP">
                         <a href="index.php?target=campionati">Vai a "Campionati" &raquo;</a>
                     </div> -->
-                <div>&raquo;In allestimento&laquo;</div>
+                <div>&rightarrow;In allestimento&leftarrow;</div>
                 </div>
             </div>
             <div id="ultimiCommenti">
@@ -45,7 +49,7 @@ function carica_home_page($baseurl, $template) {
                     <!--<div class="linkPiccoloHP">
                         <a href="index.php?target=commentiGare">Vai a "Commenti gare" &raquo;</a>
                     </div> -->
-                    <div>&raquo;In allestimento&laquo;</div>
+                    <div>&rightarrow;In allestimento&leftarrow;</div>
                 </div>
             </div>
             <div id="ottimizzazione_firefox" align="center">

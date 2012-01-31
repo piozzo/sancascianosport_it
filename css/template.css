@@ -307,6 +307,11 @@ width:940px;
     padding-top: 50px;
 }
 
+ul.menu a {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
 /* PHOCA GALLERY CSS DIRECTIVES*/
 .pdoc-categories a {
     color: #000;

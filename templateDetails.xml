@@ -34,6 +34,7 @@
                 <position>menu_amministrativo</position>
                 <position>menu_principale</position>
                 <position>statistiche_sito</position>
+                <position>home_page_login</position>
 	</positions>
 	<config>
 	<fields name="params">

@@ -312,7 +312,21 @@ ul.menu a {
     padding-right: 5px;
 }
 
+#login-form ul {
+    text-align: left;
+}
+
+#login-form ul a{
+    color: green;
+    font-size: x-small;
+}
+
 /* PHOCA GALLERY CSS DIRECTIVES*/
 .pdoc-categories a {
     color: #000;
+}
+
+/* SHOPLUS STYLE */
+a.readon {
+ color: green;   
 }

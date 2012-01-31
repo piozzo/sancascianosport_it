@@ -40,7 +40,7 @@ function carica_home_page($baseurl, $template) {
                 <div>&rightarrow;In allestimento&leftarrow;</div>
                 </div>
             </div>
-            <div id="ultimiCommenti">
+            <!-- <div id="ultimiCommenti">
                 <div class="titoloRiquadro">Ultimi Commenti</div>
                 <div id="ultimiCommentiHP">
                     <?php
@@ -48,10 +48,10 @@ function carica_home_page($baseurl, $template) {
                     ?>
                     <!--<div class="linkPiccoloHP">
                         <a href="index.php?target=commentiGare">Vai a "Commenti gare" &raquo;</a>
-                    </div> -->
+                    </div>
                     <div>&rightarrow;In allestimento&leftarrow;</div>
-                </div>
-            </div>
+                </div> 
+            </div>-->
             <div id="ottimizzazione_firefox" align="center">
                 <font size="1" face="Verdana">
                     Sito ottimizzato per la navigazione con Mozilla Firefox.

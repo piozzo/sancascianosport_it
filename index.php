@@ -73,7 +73,7 @@ include('include/funzioni.php');
 	        <img src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/images/logo.png" align="center" />
 	    </div>
             <div align="right" style="width: 800px;">
-                <a href="http://www.facebook.com/profile.php?id=100002272642783&sk=wall" target="_blank"><img src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/images/facebook_icon.png" width="40" /></a>
+                <a href="http://www.facebook.com/profile.php?id=100002272642783&sk=wall" target="_blank"><img style="border: none;" src="<?php echo $this->baseurl ?>/templates/<?php echo $this->template ?>/images/facebook_icon.png" width="40" /></a>
             </div>
 	    <div id="container">
 	    	<div style="clear: both"></div>

@@ -35,6 +35,7 @@
                 <position>menu_principale</position>
                 <position>statistiche_sito</position>
                 <position>home_page_login</position>
+                <position>home_page_newsInEvidenza</position>
 	</positions>
 	<config>
 	<fields name="params">

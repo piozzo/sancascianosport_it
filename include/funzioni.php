@@ -30,6 +30,10 @@ function carica_home_page($baseurl, $template) {
                 <div class="titoloRiquadro">Login</div>
                 <jdoc:include type="modules" name="home_page_login" />
             </div>
+            <div id="newsInEvidenzaHomePage">
+                <div class="titoloRiquadro">In evidenza</div>
+                <jdoc:include type="modules" name="home_page_newsInEvidenza" />
+            </div>
             <div id="classificheHomePage">
                 <div class="titoloRiquadro">Classifica</div>
                 <div id="classificaHP">

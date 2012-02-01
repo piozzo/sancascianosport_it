@@ -321,6 +321,29 @@ ul.menu a {
     font-size: x-small;
 }
 
+#newsInEvidenzaHomePage {
+    border: 1px solid green;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#newsInEvidenzaHomePage .menu {
+    text-align: left;
+    font-size: x-small;
+}
+
+#newsInEvidenzaHomePage .menu li {
+    margin: 0px;
+}
+
+#newsInEvidenzaHomePage .menu li a{
+    color: green;
+}
+
+#loginHomePage {
+    border: 1px solid green;
+}
+
 /* PHOCA GALLERY CSS DIRECTIVES*/
 .pdoc-categories a {
     color: #000;
